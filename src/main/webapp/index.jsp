@@ -1,6 +1,6 @@
 <html>
 <head>
-<title></title>
+<title>HelloWorld</title>
 </head>
 <body>
 <h2>Hello World!!!! Welcome to TRAINEES...</h2>
